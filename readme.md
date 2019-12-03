@@ -1,4 +1,4 @@
-#Asus X550JK-XO012D, macOS Catalina 10.15.1 with Clover Bootloader 5099
+# Asus X550JK-XO012D, macOS Catalina 10.15.1 with Clover Bootloader 5099
 
 ## My PC Specs:
 | Specifications  |  Detail |
